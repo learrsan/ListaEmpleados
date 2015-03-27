@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="afbe3963-12db-41a0-8112-f64b7ce795a6" solutionId="afbe3963-12db-41a0-8112-f64b7ce795a6" resetWebServer="false" sharePointProductVersion="15.0" name="ListaEmpleados" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="428e241e-814b-4ee1-9ef0-a0a68ea0a648" />
+  </features>
+</package>
